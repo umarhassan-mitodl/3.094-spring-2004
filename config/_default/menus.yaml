@@ -1,0 +1,25 @@
+leftnav:
+- identifier: 589e7375-61be-0dff-8147-4c247862ad11
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: da938f61-41c1-4de6-51f6-e480a85469df
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: d726cf97-3b3d-e106-2e10-29a551a09f8e
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: df728115-09c9-ca87-59a5-a7e6f796d889
+  name: Tools
+  pageRef: /pages/tools
+  weight: 40
+- identifier: d4d94157-fbee-52ff-dada-bee024ca2d9d
+  name: Laboratories
+  pageRef: /pages/laboratories
+  weight: 50
+- identifier: 101c6d32-96cb-7ef7-f8f2-ac2616ed2216
+  name: Specimen
+  pageRef: /pages/specimens
+  weight: 60
