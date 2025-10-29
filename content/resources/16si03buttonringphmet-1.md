@@ -4,8 +4,6 @@ description: ''
 file: /courses/3-094-materials-in-human-experience-spring-2004/eba334c0faa4a8dab81c210391f5b9d3_16SI03buttonringphmet.tif
 file_size: 9718368
 file_type: image/tiff
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

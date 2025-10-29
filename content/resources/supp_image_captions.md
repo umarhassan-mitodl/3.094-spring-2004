@@ -4,8 +4,6 @@ description: ''
 file: /courses/3-094-materials-in-human-experience-spring-2004/06e81141549a2898bd84348d2499e9b7_supp_image_captions.pdf
 file_size: 143830
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -4,8 +4,6 @@ description: ''
 file: /courses/3-094-materials-in-human-experience-spring-2004/a0b3c132eb9b267b46cd35e175ed066e_41SI03nosering3A5A6.tif
 file_size: 5714312
 file_type: image/tiff
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

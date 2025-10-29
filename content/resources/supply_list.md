@@ -4,8 +4,6 @@ description: List of supplies needed for the lab experiments in this course.
 file: /courses/3-094-materials-in-human-experience-spring-2004/11fa0bf416b794481a764acdac6732d2_supply_list.pdf
 file_size: 162474
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

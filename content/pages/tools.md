@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
@@ -519,49 +517,49 @@ Centaur Forge
 Suppliers
 ---------
 
-*   [Alfa Aesar](http://www.alfa.com)  
+*   {{% resource_link "661e225d-3835-477d-8650-aae17207bf22" "Alfa Aesar" %}}  
     26 Parkridge Rd.  
     Ward Hill, MA 01835-8099  
     (800) 343-0660  
     Technical service: (800) 343-7276
-*   [Centaur Forge, Ltd.](http://www.centaurforge.com)  
+*   {{% resource_link "1c80fe9b-30c0-4f7a-97e8-f5d20b97df39" "Centaur Forge, Ltd." %}}  
     117-TR N. Spring St.  
     P.O. Drawer 340  
     Burlington, WI 53105-0340  
     (262) 763-8350 or (800) 666-9175
-*   [The Compleat Sculptor, Inc](http://www.sculpt.com)  
+*   {{% resource_link "10f9dd30-4539-4807-b95e-0cf7ca66873b" "The Compleat Sculptor, Inc" %}}  
     90 Vandam St.  
     New York, NY 10013  
     (800) 972-8578  
     Fax: (212) 243-6374
-*   [Fisher Scientific](http://www.fishersci.com)  
+*   {{% resource_link "76335b3d-7c1f-4e65-8de1-289cac1dcd04" "Fisher Scientific" %}}  
     Customer service: (800) 766-7000  
     Fax: (800) 926-1166
-*   [Lab Safety Supply](http://www.labsafety.com)
-*   [Omega Engineering, Inc.](http://www.omega.com)  
+*   {{% resource_link "85fc9d58-9182-4670-aa80-e887e1ec34cd" "Lab Safety Supply" %}}
+*   {{% resource_link "1823e9fb-16dd-40b4-bf06-6ea2a79b2523" "Omega Engineering, Inc." %}}  
     1 Omega Dr.  
     P.O. Box 4047  
     Stamford, Ct. 06907-0047  
     (800) 848-4286  
     Fax: (203) 359-7700
-*   [Remet](http://www.remet.com)  
+*   {{% resource_link "f9de9954-b23b-4ae4-bb66-575f5961d547" "Remet" %}}  
     210 Commons Rd  
     Utica, NY 13502-6395  
     (315) 797-8700 or (800) 445-2424  
     Fax: (315) 797-4477
-*   [Rio Grande](http://www.riogrande.com)  
+*   {{% resource_link "b12808e8-b9fc-42ab-8734-1ff61f71f203" "Rio Grande" %}}  
     (800) 545-6566  
     Fax: (800) 965-2329
-*   [Sheffield Pottery](http://www.sheffieldpottery.com)  
+*   {{% resource_link "981a21c6-5be4-415d-9a4e-83d53a86b729" "Sheffield Pottery" %}}  
     Rte. 7, Box 399  
     Sheffield, MA 01257  
     (413) 229-7700 or (888) 774-2529  
     Fax: (413) 229-0200
-*   [Ward's Natural Science Establishment, Inc.](http://www.wardsci.com)  
+*   {{% resource_link "6a126652-8b61-46ff-8bb5-10b48a2ee616" "Ward's Natural Science Establishment, Inc." %}}  
     P.O. Box 92912  
     Rochester, NY 14692-9012  
     (716) 359-2502 or (800) 962-2660
-*   [Zar-Tech](http://www.zartech.co.uk/)  
+*   {{% resource_link "9558416c-dc8c-417a-ad54-2b82f96ee9d2" "Zar-Tech" %}}  
     17 Malcolm Hoyt Dr.  
     Newburypot, MA 01950-4017  
     (978) 462-0200  
